@@ -108,8 +108,3 @@ Sales-Performance-Analysis-2/
 # Conclusion
 This Power BI dashboard provides a holistic view of sales performance, empowering stakeholders to make informed, data-driven decisions. The analysis uncovers trends in product, segment, and regional sales, highlights top performers, and reveals opportunities for targeted growth. The interactive dashboard format ensures insights are accessible and actionable for business users.
 
-For questions or further customization, please contact the project owner or submit an issue via GitHub.
-
-Screenshots and sample visuals are available in the Assets/ folder and Overview-1.pdf.
-
-Let me know if you want to include specific screenshots or require further customization for your audience or job applications!
